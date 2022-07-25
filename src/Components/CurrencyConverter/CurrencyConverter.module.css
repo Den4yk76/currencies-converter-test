@@ -1,0 +1,11 @@
+.CurrencyConverter {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.equals {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 20px;
+}
