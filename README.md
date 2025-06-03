@@ -1,1 +1,1 @@
-Hello. I am a Currency Convertor!
+Hello. I am a Currency Converter!
